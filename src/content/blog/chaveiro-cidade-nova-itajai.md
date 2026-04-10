@@ -2,7 +2,7 @@
 title: 'Chaveiro na Cidade Nova: Rapidez e Tecnologia para um Bairro Moderno de Itajaí'
 description: 'Precisa de chaveiro na Cidade Nova em Itajaí? Atendemos 24h com serviços de abertura de portas, fechaduras digitais e controle de acesso para condomínios modernos.'
 pubDate: 2024-04-07
-heroImage: '/placeholder-post.jpg'
+heroImage: 'https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?q=80&w=1200&auto=format&fit=crop'
 ---
 
 A **Cidade Nova** é uma das regiões mais dinâmicas de Itajaí, com novos empreendimentos imobiliários, comércios modernos e um perfil de moradores que busca praticidade e tecnologia. Para acompanhar essa modernidade, o **Chaveiro Itajaí** traz as soluções mais avançadas em segurança para esse bairro.

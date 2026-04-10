@@ -2,7 +2,7 @@
 title: 'Chaveiro no Bairro Laranjeiras: Atendimento Rápido e Confiável em Itajaí'
 description: 'Chaveiro profissional no bairro Laranjeiras em Itajaí. Serviços de abertura de portas, troca de fechaduras e cópia de chaves com atendimento 24 horas.'
 pubDate: 2024-04-05
-heroImage: '/placeholder-post.jpg'
+heroImage: 'https://images.unsplash.com/photo-1590674880581-26ec07e1e863?q=80&w=1200&auto=format&fit=crop'
 ---
 
 O **Bairro Laranjeiras** é uma das regiões residenciais mais tranquilas e aconchegantes de Itajaí. Quem mora aqui valoriza a qualidade de vida e a segurança do bairro — e o **Chaveiro Itajaí** está aqui para garantir que a segurança do seu lar acompanhe esse padrão.

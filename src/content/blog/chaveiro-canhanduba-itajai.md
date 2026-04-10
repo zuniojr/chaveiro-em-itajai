@@ -2,7 +2,7 @@
 title: 'Chaveiro no Canhanduba: Segurança Total para um Bairro Residencial de Itajaí'
 description: 'Chaveiro 24h no bairro Canhanduba em Itajaí. Abertura de portas, fechaduras digitais, cópia de chaves e atendimento emergencial com rapidez garantida.'
 pubDate: 2024-04-06
-heroImage: '/placeholder-post.jpg'
+heroImage: 'https://images.unsplash.com/photo-1449844908441-8829872d2607?q=80&w=1200&auto=format&fit=crop'
 ---
 
 O **Canhanduba** é um bairro residencial de Itajaí com características familiares marcantes, onde vizinhos se conhecem e a comunidade prezou pela tranquilidade do local. Para manter essa tranquilidade com ainda mais segurança, o **Chaveiro Itajaí** oferece um atendimento completo e especializado na região.

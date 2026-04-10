@@ -15,16 +15,6 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 		<article class="blog-post container animate-fade">
 			<div class="post-header text-center">
 				<span class="section-badge">Blog & Segurança</span>
-				<div class="date">
-					Publicado em {pubDate.toLocaleDateString('pt-BR')}
-					{
-						updatedDate && (
-							<span class="last-updated-on">
-								 • Atualizado em {updatedDate.toLocaleDateString('pt-BR')}
-							</span>
-						)
-					}
-				</div>
 				<h1 class="text-gradient">{title}</h1>
 				<div class="hero-image">
 					{heroImage && <img width={1200} height={600} src={heroImage} alt={title} />}

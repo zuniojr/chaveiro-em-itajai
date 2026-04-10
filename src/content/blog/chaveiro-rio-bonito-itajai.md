@@ -2,7 +2,7 @@
 title: 'Chaveiro no Rio Bonito: Atendimento Local de Qualidade em Itajaí'
 description: 'Chaveiro no bairro Rio Bonito em Itajaí. Serviço 24h de abertura de portas, troca de fechaduras, cópia de chaves e atendimento emergencial residencial e comercial.'
 pubDate: 2024-04-08
-heroImage: '/placeholder-post.jpg'
+heroImage: 'https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?q=80&w=1200&auto=format&fit=crop'
 ---
 
 O **Bairro Rio Bonito** é uma região característica de Itajaí, com tradição e moradores que prezam pela qualidade de vida e segurança local. Para as famílias e estabelecimentos do Rio Bonito, o **Chaveiro Itajaí** é o parceiro de confiança em todas as situações envolvendo chaves e fechaduras.

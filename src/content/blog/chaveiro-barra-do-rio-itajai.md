@@ -2,7 +2,7 @@
 title: 'Chaveiro na Barra do Rio: Segurança para Quem Vive à Beira-Mar em Itajaí'
 description: 'Chaveiro especializado na Barra do Rio em Itajaí. Atendimento 24h para residências de praia, proteção anticorrosão e fechaduras resistentes à maresia.'
 pubDate: 2024-04-03
-heroImage: '/placeholder-post.jpg'
+heroImage: 'https://images.unsplash.com/photo-1544197150-b99a580bb7a8?q=80&w=1200&auto=format&fit=crop'
 ---
 
 A **Barra do Rio** é um dos locais mais encantadores de Itajaí, onde o rio encontra o mar em uma paisagem única. Mas quem vive ou passa temporadas nessa região sabe que a proximidade com o ambiente marítimo exige cuidados especiais com fechaduras, dobradiças e sistemas de acesso.

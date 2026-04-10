@@ -2,7 +2,7 @@
 title: 'Chaveiro no Itaipava: Atendimento Completo para um Bairro que Cresce em Itajaí'
 description: 'Chaveiro 24h no bairro Itaipava em Itajaí. Abertura de portas, troca de fechaduras, cópia de chaves automotivas e instalação de fechaduras digitais na região.'
 pubDate: 2024-04-07
-heroImage: '/placeholder-post.jpg'
+heroImage: 'https://images.unsplash.com/photo-1549317661-bd32c8ce0729?q=80&w=1200&auto=format&fit=crop'
 ---
 
 O **Bairro Itaipava** é uma região residencial importante de Itajaí, com uma localização estratégica e um perfil de moradores que valoriza qualidade de vida e segurança. Para as famílias e negócios do Itaipava, o **Chaveiro Itajaí** oferece um atendimento completo, ágil e com preço justo.

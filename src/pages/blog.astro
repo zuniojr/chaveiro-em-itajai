@@ -28,16 +28,17 @@ const posts = (await getCollection('blog')).sort(
 				<div class="blog-grid">
 					{posts.map((post, index) => (
 						<article class="post-card glass-card animate-fade" style={`animation-delay: ${0.1 * index}s`}>
-							<div class="post-image-wrapper">
-								<img src={post.data.heroImage} alt={post.data.title} />
-								<span class="category-badge">Itajaí</span>
-							</div>
-							<div class="post-content">
-								<span class="post-date">{post.data.pubDate.toLocaleDateString('pt-BR')}</span>
-								<h3><a href={`/blog/${post.slug}/`}>{post.data.title}</a></h3>
-								<p>{post.data.description}</p>
-								<a href={`/blog/${post.slug}/`} class="read-more">Ler Artigo Completo →</a>
-							</div>
+							<a href={`/blog/${post.slug}/`} class="post-card-link">
+								<div class="post-image-wrapper">
+									<img src={post.data.heroImage} alt={post.data.title} />
+									<span class="category-badge">Itajaí</span>
+								</div>
+								<div class="post-content">
+									<h3>{post.data.title}</h3>
+									<p>{post.data.description}</p>
+									<span class="read-more">Ler Artigo Completo →</span>
+								</div>
+							</a>
 						</article>
 					))}
 				</div>
@@ -135,30 +136,26 @@ const posts = (await getCollection('blog')).sort(
 		letter-spacing: 0.05em;
 	}
 
-	.post-content {
-		padding: 30px;
+	.post-card-link {
+		text-decoration: none;
+		color: inherit;
+		display: block;
+		height: 100%;
 	}
 
-	.post-date {
-		font-size: 0.85rem;
-		color: var(--text-muted);
-		margin-bottom: 15px;
-		display: block;
+	.post-content {
+		padding: 30px;
 	}
 
 	.post-content h3 {
 		font-size: 1.4rem;
 		margin-bottom: 20px;
 		line-height: 1.4;
-	}
-
-	.post-content h3 a {
 		color: white;
-		text-decoration: none;
 		transition: var(--transition);
 	}
 
-	.post-content h3 a:hover { color: var(--primary); }
+	.post-card:hover .post-content h3 { color: var(--primary); }
 
 	.post-content p {
 		color: var(--text-muted);

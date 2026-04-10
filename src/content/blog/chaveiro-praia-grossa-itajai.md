@@ -2,7 +2,7 @@
 title: 'Chaveiro na Praia Grossa: Segurança e Agilidade para Quem Vive à Beira-Mar em Itajaí'
 description: 'Chaveiro 24h na Praia Grossa em Itajaí. Serviços especializados para imóveis de praia, fechaduras anticorrosão, abertura de portas e atendimento emergencial.'
 pubDate: 2024-04-08
-heroImage: '/placeholder-post.jpg'
+heroImage: 'https://images.unsplash.com/photo-1518173946687-a4c8892bbd9f?q=80&w=1200&auto=format&fit=crop'
 ---
 
 A **Praia Grossa** é um paraíso à beira-mar em Itajaí, conhecido pela natureza preservada e pela vida tranquila em contato com o mar. Morar ou passar temporadas nessa região exige atenção especial com a conservação de fechaduras e sistemas de acesso, pois o ambiente marinho é extremamente agressivo para esses equipamentos.

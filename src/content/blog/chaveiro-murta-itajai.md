@@ -2,7 +2,7 @@
 title: 'Chaveiro no Bairro Murta: Solução Rápida para Residências e Comércios em Itajaí'
 description: 'Precisa de chaveiro no bairro Murta em Itajaí? Atendimento emergencial 24h para abertura de portas, troca de fechaduras e cópia de chaves.'
 pubDate: 2024-04-03
-heroImage: '/placeholder-post.jpg'
+heroImage: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&w=1200&auto=format&fit=crop'
 ---
 
 O **Bairro Murta** é uma área residencial consolidada de Itajaí, com ruas tranquilas e uma comunidade bem estabelecida. Para os moradores da Murta, ter um chaveiro de confiança por perto é uma questão de segurança e tranquilidade para toda a família.

@@ -2,7 +2,7 @@
 title: 'Chaveiro no Tabuleiro: Atendimento 24h para o Bairro em Expansão de Itajaí'
 description: 'Chaveiro 24h no Tabuleiro em Itajaí. Especializados em abertura de portas, instalação de fechaduras e cópia de chaves para famílias e empresas da região.'
 pubDate: 2024-04-06
-heroImage: '/placeholder-post.jpg'
+heroImage: 'https://images.unsplash.com/photo-1549413233-ff39665bc8f6?q=80&w=1200&auto=format&fit=crop'
 ---
 
 O **Tabuleiro** é um bairro que vem crescendo rapidamente em Itajaí, recebendo novas famílias, comércios e empreendimentos. Junto com esse crescimento vem a necessidade de serviços especializados e confiáveis — e o **Chaveiro Itajaí** está pronto para ser o seu parceiro de segurança nessa região.

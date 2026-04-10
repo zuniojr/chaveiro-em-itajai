@@ -2,7 +2,7 @@
 title: 'Chaveiro no Bairro Imaruí: Serviço Especializado para Quem Vive na Periferia de Itajaí'
 description: 'Chaveiro no bairro Imaruí em Itajaí. Atendimento 24h para toda a região com abertura de portas, segredos, fechaduras digitais e chaves automotivas.'
 pubDate: 2024-04-05
-heroImage: '/placeholder-post.jpg'
+heroImage: 'https://images.unsplash.com/photo-1517677208171-0bc6725a3e60?q=80&w=1200&auto=format&fit=crop'
 ---
 
 O **Bairro Imaruí** é uma região em crescimento na periferia de Itajaí, com um perfil familiar e uma comunidade unida. Aqui, encontrar um chaveiro de confiança que atenda com agilidade e preço justo faz toda a diferença no dia a dia.
